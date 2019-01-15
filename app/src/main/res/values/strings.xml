@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Temp Converter</string>
+    <string name="textview_degrees">Degrees</string>
+    <string name="textview_fahrenheit">Fahrenheit</string>
+    <string name="textview_celcius">Celcius</string>
+    <string name="textview_celcius_conversion">37.778</string>
+    <string name="edit_text_fahrenheit">100</string>
+</resources>
